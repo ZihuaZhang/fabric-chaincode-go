@@ -9,11 +9,11 @@ import (
 	"os"
 	"testing"
 
+	"github.com/ZihuaZhang/fabric-chaincode-go/shim/internal/mock"
+	"github.com/ZihuaZhang/fabric-protos-go/common"
+	"github.com/ZihuaZhang/fabric-protos-go/ledger/queryresult"
+	peerpb "github.com/ZihuaZhang/fabric-protos-go/peer"
 	"github.com/golang/protobuf/proto"
-	"github.com/hyperledger/fabric-chaincode-go/shim/internal/mock"
-	"github.com/hyperledger/fabric-protos-go/common"
-	"github.com/hyperledger/fabric-protos-go/ledger/queryresult"
-	peerpb "github.com/hyperledger/fabric-protos-go/peer"
 
 	"github.com/golang/protobuf/ptypes"
 	"github.com/golang/protobuf/ptypes/timestamp"

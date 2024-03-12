@@ -8,17 +8,16 @@ import (
 	"crypto/tls"
 	"crypto/x509"
 	"encoding/base64"
-	"io/ioutil"
-	"os"
-	"testing"
-	"time"
-
-	. "github.com/hyperledger/fabric-chaincode-go/shim/internal"
-	peerpb "github.com/hyperledger/fabric-protos-go/peer"
+	. "github.com/ZihuaZhang/fabric-chaincode-go/shim/internal"
+	peerpb "github.com/ZihuaZhang/fabric-protos-go/peer"
 	"github.com/stretchr/testify/assert"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"
 	"google.golang.org/grpc/keepalive"
+	"io/ioutil"
+	"os"
+	"testing"
+	"time"
 )
 
 // TLS <key, cert, cacert> tuples for client and server were created

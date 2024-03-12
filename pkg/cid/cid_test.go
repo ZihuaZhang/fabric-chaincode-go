@@ -7,9 +7,9 @@ import (
 	"encoding/base64"
 	"testing"
 
+	"github.com/ZihuaZhang/fabric-chaincode-go/pkg/cid"
+	"github.com/ZihuaZhang/fabric-protos-go/msp"
 	"github.com/golang/protobuf/proto"
-	"github.com/hyperledger/fabric-chaincode-go/pkg/cid"
-	"github.com/hyperledger/fabric-protos-go/msp"
 	"github.com/stretchr/testify/assert"
 )
 
