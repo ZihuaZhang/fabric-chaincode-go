@@ -1,5 +1,5 @@
-github.com/ZihuaZhang/fabric-protos-go v1.0.3 h1:H/2moZCmDSv2KxC5F5fGk3oSEKm9pU2BiSuUrsRDRvA=
-github.com/ZihuaZhang/fabric-protos-go v1.0.3/go.mod h1:HylisX1A7zxm0V1psjDNC6Qg/4JcXOHHF6ITb/YeYkM=
+github.com/ZihuaZhang/fabric-protos-go v1.0.4 h1:rlIQPn7ztP+hVJJkKJ+Gu2RR+GO+RggsKBR/NN+KeTM=
+github.com/ZihuaZhang/fabric-protos-go v1.0.4/go.mod h1:HylisX1A7zxm0V1psjDNC6Qg/4JcXOHHF6ITb/YeYkM=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
@@ -7,8 +7,6 @@ github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSs
 github.com/golang/protobuf v1.5.4 h1:i7eJL8qZTpSEXOPTxNKhASYpMn+8e5Q6AdndVa1dWek=
 github.com/golang/protobuf v1.5.4/go.mod h1:lnTiLA8Wa4RWRcIUkrtSVa5nRhsEGBg48fD6rSs7xps=
 github.com/google/go-cmp v0.5.9 h1:O2Tfq5qg4qc4AmwVlvv0oLiVAGB7enBSJ2x2DqQFi38=
-github.com/hyperledger/fabric-protos-go v0.3.0 h1:MXxy44WTMENOh5TI8+PCK2x6pMj47Go2vFRKDHB2PZs=
-github.com/hyperledger/fabric-protos-go v0.3.0/go.mod h1:WWnyWP40P2roPmmvxsUXSvVI/CF6vwY1K1UFidnKBys=
 github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORNo=
 github.com/kr/pretty v0.2.1/go.mod h1:ipq/a2n7PKx3OHsz4KJII5eveXtPO4qwEXGdVfWzfnI=
 github.com/kr/pretty v0.3.0 h1:WgNl7dwNpEZ6jJ9k1snq4pZsg7DOEN8hP9Xw0Tsjwk0=
