@@ -13,8 +13,8 @@ import (
 	"fmt"
 
 	"github.com/ZihuaZhang/fabric-chaincode-go/pkg/attrmgr"
-	"github.com/ZihuaZhang/fabric-protos-go/msp"
 	"github.com/golang/protobuf/proto"
+	"github.com/hyperledger/fabric-protos-go/msp"
 )
 
 // GetID returns the ID associated with the invoking identity.  This ID

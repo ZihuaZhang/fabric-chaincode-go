@@ -3,8 +3,9 @@ module github.com/ZihuaZhang/fabric-chaincode-go
 go 1.20
 
 require (
-	github.com/ZihuaZhang/fabric-protos-go v1.0.4
+	github.com/ZihuaZhang/fabric-protos-go v1.0.5
 	github.com/golang/protobuf v1.5.4
+	github.com/hyperledger/fabric-protos-go v0.3.3
 	github.com/stretchr/testify v1.8.2
 	google.golang.org/grpc v1.56.3
 )
